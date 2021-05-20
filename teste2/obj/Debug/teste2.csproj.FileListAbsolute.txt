@@ -1,0 +1,17 @@
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\teste2.exe.config
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\teste2.exe
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\teste2.pdb
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\AForge.dll
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\AForge.Video.dll
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\AForge.xml
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\AForge.Video.xml
+C:\Users\fabio\Desktop\teste2\teste2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\fabio\Desktop\teste2\teste2\obj\Debug\teste2.csprojAssemblyReference.cache
+C:\Users\fabio\Desktop\teste2\teste2\obj\Debug\teste2.Form1.resources
+C:\Users\fabio\Desktop\teste2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\fabio\Desktop\teste2\teste2\obj\Debug\teste2.csproj.GenerateResource.cache
+C:\Users\fabio\Desktop\teste2\teste2\obj\Debug\teste2.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\teste2\teste2\obj\Debug\teste2.csproj.CopyComplete
+C:\Users\fabio\Desktop\teste2\teste2\obj\Debug\teste2.exe
+C:\Users\fabio\Desktop\teste2\teste2\obj\Debug\teste2.pdb
